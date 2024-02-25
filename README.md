@@ -59,4 +59,4 @@ Combined API: Fetch data from multiple APIs, combine the responses, and send a f
     MySQL: MySQL database driver
     dotenv: Load environment variables from a .env file
     fetch: HTTP client for fetching data from third-party APIs
-    chart.js: Charting library for generating charts
+   
