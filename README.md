@@ -1,4 +1,4 @@
-# ROXILER SYSTEM - TASK
+# E-Commerce Api's
 
 This project implements APIs to manage transactions and generate statistics, bar charts, and pie charts based on the transaction data. It also includes an API to combine data from multiple APIs.
 
@@ -6,13 +6,13 @@ This project implements APIs to manage transactions and generate statistics, bar
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/roxiler-system-task.git
+   git clone https://github.com/gajanan0210/e-commerce-api-s--with-nodejs
 
 ### Install dependencies:
 
 
     
-        cd roxiler-system-task
+        cd e-commerce-api-s--with-nodejs
 
         npm install
 
